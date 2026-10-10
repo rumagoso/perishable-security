@@ -85,7 +85,7 @@ This is **v0.1** and deliberately open to attack. The weakest part is the "dark 
 
 ## Related
 
-- **AI Governance Field Kit** — cards G1–G3 apply this principle to AI-assisted reverse engineering. The *Kerckhoffs gap* (G1) is the trust half-life trigger applied to one threat.
+- **AI Governance Field Kit** — a companion set of cards applies this principle to AI-assisted reverse engineering, including the *Kerckhoffs gap*: the trust half-life trigger applied to one threat. Coming soon.
 
 ## Credits
 
